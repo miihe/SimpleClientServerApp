@@ -1,4 +1,4 @@
-package com.javastart.com.javastart.dataperson;
+package com.javastart.dataperson;
 
 import java.io.Serializable;
 

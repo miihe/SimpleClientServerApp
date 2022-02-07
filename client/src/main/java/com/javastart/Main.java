@@ -1,8 +1,8 @@
 package com.javastart;
 
-import com.javastart.com.javastart.dataperson.Account;
-import com.javastart.com.javastart.dataperson.Bill;
-import com.javastart.exceptions.FailureOfSendNotificationMethodException;
+import com.javastart.dataperson.Account;
+import com.javastart.dataperson.Bill;
+import com.javastart.exceptions.*;
 
 import java.io.IOException;
 

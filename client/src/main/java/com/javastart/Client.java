@@ -1,8 +1,9 @@
 package com.javastart;
 
-import com.javastart.com.javastart.dataperson.*;
-import com.javastart.exceptions.ClientSocketIsCrashedException;
-import com.javastart.exceptions.IncorrectException;
+import com.javastart.dataperson.*;
+import com.javastart.dataperson.Adjustment;
+import com.javastart.dataperson.Payment;
+import com.javastart.exceptions.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 

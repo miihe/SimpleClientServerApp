@@ -1,9 +1,9 @@
 package com.javastart.server;
 
-import com.javastart.com.javastart.dataperson.Account;
-import com.javastart.com.javastart.dataperson.Adjustment;
-import com.javastart.com.javastart.dataperson.Payment;
-import com.javastart.server.exceptions.BufferReaderNotReadyException;
+import com.javastart.dataperson.Account;
+import com.javastart.dataperson.Adjustment;
+import com.javastart.dataperson.Payment;
+import com.javastart.server.exceptions.*;
 
 import java.io.*;
 import java.net.ServerSocket;

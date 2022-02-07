@@ -1,8 +1,6 @@
 package com.javastart.server;
 
-import com.javastart.com.javastart.dataperson.Account;
-import com.javastart.com.javastart.dataperson.Adjustment;
-import com.javastart.com.javastart.dataperson.Payment;
+import com.javastart.dataperson.Account;
 
 import java.util.ArrayList;
 import java.util.List;
